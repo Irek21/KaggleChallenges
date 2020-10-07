@@ -1,2 +1,2 @@
 # IMDB Reviews classification
-IMDB Reviews classification (positive / negative) with perceptron
+IMDB positive / negative reviews binary classification using perceptron.
