@@ -1,2 +1,2 @@
-# Boston Housing flat cost regression
-Bosto Housing cost regression using perceptron.
+# Boston Housing cost regression
+Boston Housing flat cost regression using perceptron.
