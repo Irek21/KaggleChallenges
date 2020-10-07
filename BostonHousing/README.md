@@ -1,1 +1,2 @@
-# Boston Housing flat cost regression challenge with perceptron
+# Boston Housing flat cost regression
+Bosto Housing cost regression using perceptron.
